@@ -12,7 +12,7 @@ drwx------+   9 tlberglund  staff   306 Sep 26 10:19 Music
 drwx------   53 tlberglund  staff  1802 Jul 26 08:32 New Personal Documents
 drwx------+  52 tlberglund  staff  1768 Dec  8 09:35 Pictures
 drwxr-xr-x+   5 tlberglund  staff   170 Jul 25 15:13 Public
-drwxr-xr-x   60 tlberglund  staff  2040 Dec 24 06:16 Purchased Software
+drwxr-xr-x   60 tlberglund  staff  2040 Dec 24 06:16 Purloined Software
 drwxr-xr-x   12 tlberglund  staff   408 Dec  1 16:28 Tools
 drwxr-xr-x  114 tlberglund  staff  3876 Oct 30 09:59 code
 drwxr-xr-x    3 tlberglund  staff   102 Aug 10 11:36 eclipse-workspace
